@@ -4,17 +4,17 @@ import { Linkedin, Twitter, Mail } from 'lucide-react';
 export function TeamSection() {
   const founders = [
     {
-      name: 'Mobisa Frankline',
+      name: 'Victor Irungu',
       role: 'Co-Founder & CEO',
-      initials: 'MF',
+      initials: 'VI',
       bio: 'Visionary leader with 10+ years in technology and business strategy. Passionate about leveraging innovation to solve complex business challenges.',
       expertise: ['Strategy', 'Innovation', 'Leadership'],
       gradient: 'from-[var(--neon-blue)] to-[var(--neon-purple)]',
     },
     {
-      name: 'Victor Irungu',
+      name: 'Mobisa Frankline',
       role: 'Co-Founder & CTO',
-      initials: 'VI',
+      initials: 'MF',
       bio: 'Technical architect and AI specialist with extensive experience in building scalable, cutting-edge software solutions for global enterprises.',
       expertise: ['AI & ML', 'Cloud Architecture', 'Full-Stack Development'],
       gradient: 'from-[var(--neon-purple)] to-[var(--neon-cyan)]',

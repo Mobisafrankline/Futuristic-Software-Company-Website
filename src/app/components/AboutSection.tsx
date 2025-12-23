@@ -83,11 +83,11 @@ export function AboutSection() {
               className="flex items-center gap-4 p-4 rounded-xl bg-white/5 hover:bg-white/10 transition-all"
             >
               <div className="w-20 h-20 rounded-full bg-gradient-to-br from-[var(--neon-blue)] to-[var(--neon-purple)] flex items-center justify-center flex-shrink-0">
-                <span className="text-2xl font-bold text-white">MF</span>
+                <span className="text-2xl font-bold text-white">VI</span>
               </div>
               <div>
-                <h4 className="text-xl mb-1">Mobisa Frankline</h4>
-                <p className="text-[var(--neon-blue)] text-sm mb-2">Co-Founder & CEO</p>
+                <h4 className="text-xl mb-1">Victor Irungu</h4>
+                <p className="text-[var(--neon-blue)] text-sm mb-2">Co-Founder & CTO</p>
                 <p className="text-gray-400 text-sm">Visionary leader driving innovation and strategic growth</p>
               </div>
             </motion.div>
@@ -97,10 +97,10 @@ export function AboutSection() {
               className="flex items-center gap-4 p-4 rounded-xl bg-white/5 hover:bg-white/10 transition-all"
             >
               <div className="w-20 h-20 rounded-full bg-gradient-to-br from-[var(--neon-purple)] to-[var(--neon-cyan)] flex items-center justify-center flex-shrink-0">
-                <span className="text-2xl font-bold text-white">VI</span>
+                <span className="text-2xl font-bold text-white">MF</span>
               </div>
               <div>
-                <h4 className="text-xl mb-1">Victor Irungu</h4>
+                <h4 className="text-xl mb-1">Mobisa Frankline</h4>
                 <p className="text-[var(--neon-purple)] text-sm mb-2">Co-Founder & CTO</p>
                 <p className="text-gray-400 text-sm">Technical expert architecting cutting-edge solutions</p>
               </div>
@@ -179,27 +179,27 @@ export function AboutSection() {
           <div className="space-y-8">
             {[
               {
-                year: '2015',
+                year: '2025',
                 title: 'Foundation',
                 description: 'Mobivic Solution was founded with a vision to revolutionize the tech industry',
               },
               {
-                year: '2017',
+                year: '2025',
                 title: 'Expansion',
                 description: 'Expanded services to include AI and machine learning solutions',
               },
               {
-                year: '2019',
+                year: '2025',
                 title: 'Global Reach',
                 description: 'Established international presence across 5 continents',
               },
               {
-                year: '2022',
+                year: '2025',
                 title: 'Innovation Leader',
                 description: 'Recognized as an industry leader in digital transformation',
               },
               {
-                year: '2024',
+                year: '2026',
                 title: 'Future Forward',
                 description: 'Continuing to pioneer cutting-edge solutions for tomorrow\'s challenges',
               },

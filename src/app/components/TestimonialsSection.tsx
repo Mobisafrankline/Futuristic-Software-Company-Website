@@ -4,32 +4,11 @@ import { Star } from 'lucide-react';
 export function TestimonialsSection() {
   const testimonials = [
     {
-      name: 'Sarah Johnson',
-      role: 'CEO, TechStart Inc.',
+      name: 'Stanley Kamau',
+      role: 'CEO, Ocean air express Inc.',
       content: 'Mobivic Solution transformed our digital infrastructure. Their AI solutions increased our operational efficiency by 40%. Truly exceptional work!',
       rating: 5,
-      avatar: 'SJ',
-    },
-    {
-      name: 'Michael Chen',
-      role: 'CTO, DataFlow Systems',
-      content: 'Working with Mobivic was a game-changer. Their expertise in cloud migration saved us significant costs while improving performance dramatically.',
-      rating: 5,
-      avatar: 'MC',
-    },
-    {
-      name: 'Emily Rodriguez',
-      role: 'Product Manager, FinTech Pro',
-      content: 'The mobile app they developed exceeded all expectations. User engagement increased by 150% in the first quarter. Highly recommend their services!',
-      rating: 5,
-      avatar: 'ER',
-    },
-    {
-      name: 'David Park',
-      role: 'Founder, E-Commerce Hub',
-      content: 'Mobivic Solution delivered our e-commerce platform on time and within budget. Their attention to detail and technical prowess is unmatched.',
-      rating: 5,
-      avatar: 'DP',
+      avatar: 'Sk',
     },
     {
       name: 'Lisa Thompson',
@@ -126,7 +105,7 @@ export function TestimonialsSection() {
             <p className="text-gray-400 mb-4">Trusted by innovative companies worldwide</p>
             <div className="flex items-center justify-center gap-8 flex-wrap">
               <div className="text-2xl font-bold bg-gradient-to-r from-[var(--neon-blue)] to-[var(--neon-cyan)] bg-clip-text text-transparent">
-                500+
+                5+
               </div>
               <div className="w-px h-8 bg-white/10" />
               <div className="text-2xl font-bold bg-gradient-to-r from-[var(--neon-purple)] to-[var(--neon-cyan)] bg-clip-text text-transparent">
