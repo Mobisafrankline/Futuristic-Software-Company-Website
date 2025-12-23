@@ -51,8 +51,13 @@ export function Footer() {
             >
               <div className="flex items-center space-x-2 mb-4">
                 <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-[var(--neon-blue)] via-[var(--neon-purple)] to-[var(--neon-cyan)] flex items-center justify-center">
-                  <span className="text-white font-bold text-xl">M</span>
-                </div>
+  <img
+    src="/logo.png"
+    alt="Mobivic Solution Logo"
+    className="w-7 h-7 object-contain"
+  />
+</div>
+
                 <span className="text-xl font-bold bg-gradient-to-r from-[var(--neon-blue)] via-[var(--neon-purple)] to-[var(--neon-cyan)] bg-clip-text text-transparent">
                   Mobivic Solution
                 </span>
