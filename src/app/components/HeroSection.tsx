@@ -102,8 +102,8 @@ export function HeroSection() {
               className="grid grid-cols-3 gap-6 mt-12"
             >
               {[
-                { value: '100+', label: 'Projects Delivered' },
-                { value: '50+', label: 'Global Clients' },
+                { value: '5+', label: 'Projects Delivered' },
+                { value: '5+', label: 'Global Clients' },
                 { value: '99%', label: 'Client Satisfaction' },
               ].map((stat, index) => (
                 <div key={index} className="text-center">
@@ -124,7 +124,7 @@ export function HeroSection() {
             >
               {[
                 '🎯 Award-winning technology solutions',
-                '🚀 10+ years of industry experience',
+                '🚀 1+ years of industry experience',
                 '🌍 Serving clients across 5 continents',
               ].map((highlight, index) => (
                 <motion.div

@@ -150,10 +150,10 @@ export function TeamSection() {
           <h3 className="text-3xl text-center mb-12">Our Expert Team</h3>
           <div className="grid md:grid-cols-4 gap-6">
             {[
-              { name: 'Sarah Johnson', role: 'Head of AI & ML', initials: 'SJ', color: 'from-[var(--neon-blue)] to-[var(--neon-cyan)]' },
-              { name: 'Michael Chen', role: 'Lead DevOps Engineer', initials: 'MC', color: 'from-[var(--neon-purple)] to-[var(--neon-blue)]' },
-              { name: 'Emily Rodriguez', role: 'UX/UI Director', initials: 'ER', color: 'from-[var(--neon-cyan)] to-[var(--neon-purple)]' },
-              { name: 'David Park', role: 'Senior Full Stack Dev', initials: 'DP', color: 'from-[var(--neon-blue)] to-[var(--neon-purple)]' },
+              { name: 'Ian Kinoti', role: 'Head of AI & ML', initials: 'IK', color: 'from-[var(--neon-blue)] to-[var(--neon-cyan)]' },
+              { name: 'Mixxy Irungu', role: 'Lead DevOps Engineer', initials: 'MI', color: 'from-[var(--neon-purple)] to-[var(--neon-blue)]' },
+              { name: 'Brian Irungu', role: 'UX/UI Director', initials: 'BI', color: 'from-[var(--neon-cyan)] to-[var(--neon-purple)]' },
+              { name: 'Mobisa Frankline', role: 'Senior Full Stack Dev', initials: 'MF', color: 'from-[var(--neon-blue)] to-[var(--neon-purple)]' },
             ].map((member, index) => (
               <motion.div
                 key={index}

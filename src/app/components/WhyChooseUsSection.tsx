@@ -94,7 +94,7 @@ export function WhyChooseUsSection() {
                 <Rocket className="text-[var(--neon-blue)]" size={40} />
               </div>
               <div className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-[var(--neon-blue)] to-[var(--neon-cyan)] bg-clip-text text-transparent mb-2">
-                100+
+                5+
               </div>
               <div className="text-gray-400">Successful Projects</div>
               <p className="text-gray-500 text-sm mt-2">Delivered across multiple industries</p>
@@ -108,7 +108,7 @@ export function WhyChooseUsSection() {
                 <Users className="text-[var(--neon-purple)]" size={40} />
               </div>
               <div className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-[var(--neon-purple)] to-[var(--neon-cyan)] bg-clip-text text-transparent mb-2">
-                50+
+                5+
               </div>
               <div className="text-gray-400">Happy Clients</div>
               <p className="text-gray-500 text-sm mt-2">From startups to enterprises</p>
